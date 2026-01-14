@@ -48,15 +48,3 @@ python app.py
 - **Gradio** - Web interface
 - **PIL/Pillow** - Image processing
 
-## Project Structure
-
-real_estate_classifier/
-├── data/
-│   ├── train/          # Training images
-│   └── test/           # Test images
-├── models/             # Saved models
-├── train.py            # Training script
-├── test.py             # Testing script
-├── app.py              # Web demo
-├── requirements.txt
-└── README.md
